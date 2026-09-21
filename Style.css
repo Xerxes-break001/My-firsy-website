@@ -56,11 +56,20 @@ nav {
     background-color: #111;
     border-radius: 12px;
 }
+
+
 nav a {
     display: inline-block;
     padding: 8px 12px;
     border-radius: 6px;
 }
+
+
 nav a:first-child {
     background-color: #222;
+}
+
+button {
+    background-color: red !important;
+    color: white !important;
 }
