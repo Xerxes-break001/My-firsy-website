@@ -33,3 +33,17 @@ button:hover {
     background-color: #555;
     transform: scale(1.05);
 }
+
+nav {
+    margin-bottom: 80px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 17px;
+}
+nav a:hover {
+    color: #aaa;
+}
