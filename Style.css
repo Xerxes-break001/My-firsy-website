@@ -52,3 +52,7 @@ nav {
     top: 0;
     padding: 20px;
 }
+nav {
+    background-color: #111;
+    border-radius: 12px;
+}
