@@ -24,7 +24,7 @@ button {
     border: 1px solid #555;
     border-radius: 8px;
     cursor: pointer;
-    background-color: #222;
+    background-color: red;
     color: white;
     transition: 0.3s;
 }
