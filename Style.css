@@ -80,3 +80,18 @@ nav a:first-child {
     background-color: #222;
 }
 
+nav {
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #aaa;
+}
