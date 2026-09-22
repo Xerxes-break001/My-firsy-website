@@ -82,7 +82,21 @@ nav a:hover {
  font-family: Arial;
 font-family: Arial;
 Color: gray;
+    
 }
+
+.about{
+text-align: center;
+Padding: 30px;
+background-color: gray;
+border-radius: 12px;
+}
+
+
+
+
+
+
 
 
 
